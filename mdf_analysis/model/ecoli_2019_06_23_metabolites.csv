@@ -1,0 +1,1072 @@
+GSM (iJO1366 as in matTFA) - formula	GSM (iJO1366 as in matTFA) - nomenclature	KEGG ID
+10fthf_c	10-Formyltetrahydrofolate	C00234 
+12dgr120_c	1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)	C00641
+12dgr140_c	1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)	C00641
+12dgr141_c	1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1)	C00641
+12dgr160_c	1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)	C00641
+12dgr161_c	1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)	C00641
+12dgr180_c	1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)	C00641
+12dgr181_c	1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)	C00641
+12ppd-R_c	(R)-Propane-1,2-diol	C02912
+12ppd-S_c	(S)-Propane-1,2-diol	C02917
+13dpg_c	3-Phospho-D-glyceroyl phosphate	C00236
+14dhncoa_c	1,4-dihydroxy-2-napthoyl-CoA	C15547
+15dap_c	1,5-Diaminopentane	C01672
+1ddecg3p_c	1-dodecanoyl-sn-glycerol 3-phosphate	C13854
+1hdec9eg3p_c	1-hexadec-9-enoyl-sn-glycerol 3-phosphate	-
+1hdecg3p_c	1-hexadecanoyl-sn-glycerol 3-phosphate	-
+1odec11eg3p_c	1-octadec-11-enoyl-sn-glycerol 3-phosphate	-
+1pyr5c_c	1-Pyrroline-5-carboxylate	C03912
+1tdec7eg3p_c	1-tetradec-7-enoyl-sn-glycerol 3-phosphate	-
+1tdecg3p_c	1-tetradecanoyl-sn-glycerol 3-phosphate	-
+23ddhb_c	2,3-Dihydro-2,3-dihydroxybenzoate	C04171
+23dhb_c	2,3-Dihydroxybenzoate	C00196
+23dhba_c	(2,3-Dihydroxybenzoyl)adenylate	C04030
+23dhbzs_c	2,3-dihydroxybenzoylserine	C04204
+23dhdp_c	2,3-Dihydrodipicolinate	C03340
+23dhmb_c	(R)-2,3-Dihydroxy-3-methylbutanoate	C04272
+23dhmp_c	(R)-2,3-Dihydroxy-3-methylpentanoate	C06007
+25aics_c	(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate	C04823
+25drapp_c	2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5-phosphate	C01304                      
+26dap-LL_c	LL-2,6-Diaminoheptanedioate	C00666
+26dap-M_c	meso-2,6-Diaminoheptanedioate	C00680
+2agpe120_c	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)	C05973
+2agpe140_c	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)	C05973
+2agpe141_c	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)	C05973
+2agpg120_c	2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)	-
+2agpg140_c	2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)	-
+2agpg141_c	2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)	-
+2ahbut_c	(S)-2-Aceto-2-hydroxybutanoate	C06006
+2amsa_c	2-Aminomalonate semialdehyde	C11822
+2aobut_c	L-2-Amino-3-oxobutanoate	C03508
+2cpr5p_c	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate	C01302
+2dda7p_c	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate	C04691
+2ddecg3p_c	2-dodecanoyl-sn-glycerol 3-phosphate	-
+2ddg6p_c	2-Dehydro-3-deoxy-D-gluconate 6-phosphate	C04442
+2dhp_c	2-Dehydropantoate	C00966
+2dmmq8_c	2-Demethylmenaquinone 8	C05818
+2dmmql8_c	2-Demethylmenaquinol 8	-
+2dr1p_c	2-Deoxy-D-ribose 1-phosphate	C00672
+2dr5p_c	2-Deoxy-D-ribose 5-phosphate	C00673
+2fe1s_c	[2Fe-1S] desulfurated iron-sulfur cluster	-
+2fe2s_c	[2Fe-2S] iron-sulfur cluster	-
+2h3oppan_c	2-Hydroxy-3-oxopropanoate	C01146
+2ippm_c	2-Isopropylmaleate	C02631
+2mahmp_c	2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate	C04752                      
+2mcacn_c	cis-2-Methylaconitate	C04225
+2mcit_c	2-Methylcitrate	C02225
+2me4p_c	2-C-methyl-D-erythritol 4-phosphate	C11434
+2mecdp_c	2-C-methyl-D-erythritol 2,4-cyclodiphosphate	C11453
+2obut_c	2-Oxobutanoate	C00109
+2ohph_c	2-Octaprenyl-6-hydroxyphenol	C05811
+2ombzl_c	2-Octaprenyl-6-methoxy-1,4-benzoquinol	-
+2omhmbl_c	2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol	C05815                      
+2ommbl_c	2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol	C05814                      
+2omph_c	2-Octaprenyl-6-methoxyphenol	C05812
+2oph_c	2-Octaprenylphenol	C05810
+2p4c2me_c	2-phospho-4-(cytidine 5-diphospho)-2-C-methyl-D-erythritol	C11436
+2pg_c	D-Glycerate 2-phosphate	C00631
+2sephchc_c	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate	C16519
+2shchc_c	2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate	C05817
+2tdecg3p_c	2-tetradecanoyl-sn-glycerol 3-phosphate	-
+34hpp_c	3-(4-Hydroxyphenyl)pyruvate	C01179
+35cgmp_c	3,5-Cyclic GMP	C00942                      
+3amac_c	3-Aminoacrylate	C20253                      
+3c2hmp_c	3-Carboxy-2-hydroxy-4-methylpentanoate	C04411
+3c3hmp_c	3-Carboxy-3-hydroxy-4-methylpentanoate	C02504
+3c4mop_c	3-Carboxy-4-methyl-2-oxopentanoate	C04236
+3dhq_c	3-Dehydroquinate	C00944
+3dhsk_c	3-Dehydroshikimate	C02637
+3fe4s_c	[3Fe-4S] damaged iron-sulfur cluster	-
+3haACP_c	(3R)-3-Hydroxyacyl-[acyl-carrier protein]	C01271                      
+3hbcoa_c	(S)-3-Hydroxybutanoyl-CoA	C01144
+3hcddec5eACP_c	(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein]	-
+3hcmrs7eACP_c	(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]	-
+3hcpalm9eACP_c	(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein]	-
+3hcvac11eACP_c	(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein]	-
+3hdcoa_c	(S)-3-Hydroxydecanoyl-CoA	C05264
+3hddcoa_c	(S)-3-Hydroxydodecanoyl-CoA	C05262
+3hddecACP_c	(R)-3-Hydroxydodecanoyl-[acyl-carrier protein]	C05757
+3hdecACP_c	(R)-3-Hydroxydecanoyl-[acyl-carrier protein]	C04619
+3hhcoa_c	(S)-3-Hydroxyhexanoyl-CoA	C05268
+3hhexACP_c	(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]	C05747
+3hmrsACP_c	(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]	C04688
+3hocoa_c	(S)-3-Hydroxyoctanoyl-CoA	C05266
+3hoctACP_c	(R)-3-Hydroxyoctanoyl-[acyl-carrier protein]	C04620
+3hpalmACP_c	R-3-hydroxypalmitoyl-[acyl-carrier protein]	-
+3hpp_c	3-Hydroxypropanoate	C01013
+3htdcoa_c	(S)-3-Hydroxytetradecanoyl-CoA	C05260
+3ig3p_c	C-(3-Indolyl)-glycerol 3-phosphate	-
+3mob_c	3-Methyl-2-oxobutanoate	C00141                      
+3mop_c	(S)-3-Methyl-2-oxopentanoate	C03465                      
+3ocddec5eACP_c	3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein]	-
+3ocmrs7eACP_c	3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein]	-
+3ocpalm9eACP_c	3-oxo-cis-palm-9-eoyl-[acyl-carrier protein]	-
+3ocvac11eACP_c	3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]	-
+3odcoa_c	3-Oxodecanoyl-CoA	C05265
+3oddcoa_c	3-Oxododecanoyl-CoA	C05263
+3oddecACP_c	3-Oxododecanoyl-[acyl-carrier protein]	C05756
+3odecACP_c	3-Oxodecanoyl-[acyl-carrier protein]	C05753
+3ohcoa_c	3-Oxohexanoyl-CoA	C05269
+3ohexACP_c	3-Oxohexanoyl-[acyl-carrier protein]	C05746
+3omrsACP_c	3-Oxotetradecanoyl-[acyl-carrier protein]	C05759
+3oocoa_c	3-Oxooctanoyl-CoA	C05267
+3ooctACP_c	3-Oxooctanoyl-[acyl-carrier protein]	C05750
+3opalmACP_c	3-Oxohexadecanoyl-[acyl-carrier protein]	C05762
+3ophb_c	3-Octaprenyl-4-hydroxybenzoate	C05809
+3otdcoa_c	3-Oxotetradecanoyl-CoA	C05261
+3pg_c	3-Phospho-D-glycerate	C00197
+3php_c	3-Phosphohydroxypyruvate	C03232
+3psme_c	5-O-(1-Carboxyvinyl)-3-phosphoshikimate	C01269
+4abut_c	4-Aminobutanoate	C00334
+4abutn_c	4-Aminobutanal	C00555
+4abz_c	4-Aminobenzoate	C00568
+4adcho_c	4-amino-4-deoxychorismate	C11355
+4ampm_c	4-Amino-2-methyl-5-phosphomethylpyrimidine	C04556                      
+4c2me_c	4-(cytidine 5-diphospho)-2-C-methyl-D-erythritol	C11435                      
+4crsol_c	p-Cresol	C01468
+4fe4s_c	[4Fe-4S] iron-sulfur cluster	-
+4hbz_c	4-Hydroxybenzoate	C00156
+4mop_c	4-Methyl-2-oxopentanoate	C00233
+4mpetz_c	4-Methyl-5-(2-phosphoethyl)-thiazole	C04327                      
+4pasp_c	4-Phospho-L-aspartate	C03082
+4per_c	4-Phospho-D-erythronate	C03393
+4ppan_c	D-4-Phosphopantothenate	C03492                      
+4ppcys_c	N-((R)-4-Phosphopantothenoyl)-L-cysteine	C04352                      
+4r5au_c	4-(1-D-Ribitylamino)-5-aminouracil	C04732                      
+5aizc_c	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	C04751                      
+5aop_c	5-Amino-4-oxopentanoate	C00430                      
+5aprbu_c	5-Amino-6-(5-phosphoribitylamino)uracil	C04454                      
+5apru_c	5-Amino-6-(5-phosphoribosylamino)uracil	C01268                      
+5caiz_c	5-phosphoribosyl-5-carboxyaminoimidazole	-
+5dglcn_c	5-Dehydro-D-gluconate	C01062
+5drib_c	5-deoxyribose	-
+5fthf_c	5-Formyltetrahydrofolate	C03479                      
+5mta_c	5-Methylthioadenosine	C00170                      
+5mthf_c	5-Methyltetrahydrofolate	C00440                      
+5mtr_c	5-Methylthio-D-ribose	C03089                      
+6hmhpt_c	6-hydroxymethyl dihydropterin	C01300                      
+6hmhptpp_c	6-hydroxymethyl-dihydropterin pyrophosphate	C04807                      
+6pgc_c	6-Phospho-D-gluconate	C00345
+6pgl_c	6-phospho-D-glucono-1,5-lactone	C01236
+8aonn_c	8-Amino-7-oxononanoate	C01092
+ACP_c	acyl carrier protein	C00229
+LalaDgluMdap_c	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate	-
+LalaDgluMdapDala_c	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine	-
+aacoa_c	Acetoacetyl-CoA	C00332
+aact_c	Aminoacetone	C01888
+ac_c	Acetate	C00033
+acACP_c	Acetyl-ACP	-
+acald_c	Acetaldehyde	C00084
+accoa_c	Acetyl-CoA	C00024
+acetol_c	Acetol	C05235
+acg5p_c	N-Acetyl-L-glutamyl 5-phosphate	C04133                      
+acg5sa_c	N-Acetyl-L-glutamate 5-semialdehyde	C01250
+acgam_c	N-Acetyl-D-glucosamine	C00140
+acgam1p_c	N-Acetyl-D-glucosamine 1-phosphate	C04256
+acgam6p_c	N-Acetyl-D-glucosamine 6-phosphate	C00357
+acglu_c	N-Acetyl-L-glutamate	C00624
+acmum6p_c	N-acetylmuramate 6-phosphate	C16698
+acon-C_c	cis-Aconitate	C00417
+acorn_c	N2-Acetyl-L-ornithine	C00437
+acser_c	O-Acetyl-L-serine	C00979
+actACP_c	Acetoacetyl-ACP	-
+actp_c	Acetyl phosphate	C00227
+ade_c	Adenine	C00147
+adn_c	Adenosine	C00212
+adocbl_c	Adenosylcobalamin	C00194                      
+adp_c	ADP	C00008
+adpglc_c	ADPglucose	C00498
+adphep-DD_c	ADP-D-glycero-D-manno-heptose	C06397                      
+adphep-LD_c	ADP-L-glycero-D-manno-heptose	C06398                      
+adprib_c	ADPribose	C00301                      
+agm_c	Agmatine	C00179
+ahcys_c	S-Adenosyl-L-homocysteine	C00021
+ahdt_c	2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate	C04895
+aicar_c	5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide	C04677
+air_c	5-amino-1-(5-phospho-D-ribosyl)imidazole	C03373
+akg_c	2-Oxoglutarate	C00026
+ala-B_c	beta-Alanine	C00099
+ala-D_c	D-Alanine	C00133
+ala-L_c	L-Alanine	C00041
+alaala_c	D-Alanyl-D-alanine	C00993
+alac-S_c	(S)-2-Acetolactate	C06010
+alltn_c	Allantoin	C01551
+alltt_c	Allantoate	C00499
+amet_c	S-Adenosyl-L-methionine	C00019
+ametam_c	S-Adenosylmethioninamine	C01137
+amob_c	S-Adenosyl-4-methylthio-2-oxobutanoate	C04425
+amp_c	AMP	C00020
+anhgm_c	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid	-
+anhgm3p_c	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide	-
+anhgm4p_c	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide	-
+anhm_c	1,6-anhydrous-N-Acetylmuramate	C19769                      
+anhm3p_c	1,6-anhydrous-N-Acetylmuramyl-tripeptide	-
+anhm4p_c	1,6-anhydrous-N-Acetylmuramyl-tetrapeptide	-
+anth_c	Anthranilate	C00108                      
+ap4a_c	P1,P4-Bis(5-adenosyl) tetraphosphate	C01260                      
+aps_c	Adenosine 5-phosphosulfate	C00224                      
+ara5p_c	D-Arabinose 5-phosphate	C01112
+arab-L_c	L-Arabinose	C00259
+arbtn_c	aerobactin minus Fe3	-
+arbtn-fe3_c	Aerobactin	C05554
+arg-L_c	L-Arginine	C00062
+argsuc_c	N(omega)-(L-Arginino)succinate	C03406                      
+asn-L_c	L-Asparagine	C00152
+asp-L_c	L-Aspartate	C00049
+aspsa_c	L-Aspartate 4-semialdehyde	C00441
+athr-L_c	L-Allo-threonine	C05519
+atp_c	ATP	C00002
+b2coa_c	Crotonoyl-CoA	C00877
+bglycogen_c	branching glycogen	-
+bmoco_c	bis-molybdenum cofactor	-
+bmoco1gdp_c	bis-molybdopterin mono-guanine dinucleotide	-
+bmocogdp_c	bis-molybdopterin guanine dinucleotide	-
+btcoa_c	Butanoyl-CoA	C00136
+btn_c	Biotin	C00120
+but2eACP_c	But-2-enoyl-[acyl-carrier protein]	-
+butACP_c	Butyryl-ACP (n-C4:0ACP)	-
+ca2_c	Calcium	C00076                      
+camp_c	cAMP	C00575
+cbasp_c	N-Carbamoyl-L-aspartate	C00438
+cbl1_c	Cob(I)alamin	C00853                      
+cbm_c	Carbamate	C01563                      
+cbp_c	Carbamoyl phosphate	C00169
+cd2_c	Cadmium	C01413
+cddec5eACP_c	cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1)	-
+cdec3eACP_c	cis-dec-3-enoyl-[acyl-carrier protein] (n-C10:1)	-
+cdp_c	CDP	C00112
+cdpdddecg_c	CDP-1,2-didodecanoylglycerol	-
+cdpdhdec9eg_c	CDP-1,2-dihexadec-9-enoylglycerol	-
+cdpdhdecg_c	CDP-1,2-dihexadecanoylglycerol	-
+cdpdodec11eg_c	CDP-1,2-dioctadec-11-enoylglycerol	-
+cdpdodecg_c	CDP-1,2-dioctadecanoylglycerol	-
+cdpdtdec7eg_c	CDP-1,2-ditetradec-7-enoylglycerol	-
+cdpdtdecg_c	CDP-1,2-ditetradecanoylglycerol	-
+cgly_c	Cys-Gly	C01419
+chor_c	chorismate	C00251
+cit_c	Citrate	C00158
+citr-L_c	L-Citrulline	C00327
+ckdo_c	CMP-3-deoxy-D-manno-octulosonate	C04121
+cl_c	Chloride	C00698
+cmp_c	CMP	C00055
+co2_c	CO2	C00011
+coa_c	Coenzyme A	C00010
+cobalt2_c	Co2+	C00011
+colipa_c	core oligosaccharide lipid A	C00338                      
+cpgn_c	coprogen	-
+cpgn-un_c	coprogen unloaded (no Fe(III))	-
+cpmp_c	cyclic pyranopterin monophosphate	C18239
+cpppg3_c	Coproporphyrinogen III	C03263
+crn_c	L-Carnitine	C00318
+crn-D_c	D-Carnitine	C15025
+csn_c	Cytosine	C00380
+ctbt_c	crotonobetaine	C04114
+ctp_c	CTP	C00063
+cu2_c	Cu2+	C00070                      
+cys-L_c	L-Cysteine	C00097
+cyst-L_c	L-Cystathionine	C02291
+cytd_c	Cytidine	C00475
+dad-2_c	Deoxyadenosine	C00559
+dad-5_c	5-Deoxyadenosine	C05198
+dadp_c	dADP	C00206
+damp_c	dAMP	C00360
+dann_c	7,8-Diaminononanoate	C01037                      
+datp_c	dATP	C00131
+db4p_c	3,4-dihydroxy-2-butanone 4-phosphate	C15556                      
+dc2coa_c	trans-Dec-2-enoyl-CoA	C05275
+dca_c	Decanoate (n-C10:0)	C01571
+dcaACP_c	Decanoyl-ACP (n-C10:0ACP)	-
+dcacoa_c	Decanoyl-CoA (n-C10:0CoA)	C05274                      
+dcamp_c	N6-(1,2-Dicarboxyethyl)-AMP	C03794
+dcdp_c	dCDP	C00705
+dcmp_c	dCMP	C00239
+dctp_c	dCTP	C00458
+dcyt_c	Deoxycytidine	C00881
+dd2coa_c	trans-Dodec-2-enoyl-CoA	C03221
+ddca_c	Dodecanoate (n-C12:0)	C02679                      
+ddcaACP_c	Dodecanoyl-ACP (n-C12:0ACP)	-
+ddcacoa_c	Dodecanoyl-CoA (n-C12:0CoA)	C01832
+ddcap_c	Dodecanoyl-phosphate (n-C12:0)	-
+dgdp_c	dGDP	C00361
+dgmp_c	dGMP	C00362
+dgsn_c	Deoxyguanosine	C00330
+dgtp_c	dGTP	C00286
+dha_c	Dihydroxyacetone	C00184
+dhap_c	Dihydroxyacetone phosphate	C00111
+dhf_c	7,8-Dihydrofolate	C00415
+dhgly_c	dehydroglycine	C15809
+dhna_c	1,4-Dihydroxy-2-naphthoate	C03657
+dhnpt_c	Dihydroneopterin	C04874
+dhor-S_c	(S)-Dihydroorotate	C00337
+dhpmp_c	Dihydroneopterin monophosphate	C05925                      
+dhpt_c	Dihydropteroate	C00921
+dhptd_c	4,5-dihydroxy-2,3-pentanedione	C11838
+dimp_c	dIMP	C06196
+din_c	Deoxyinosine	C05512
+ditp_c	dITP	C01345
+dmlz_c	6,7-Dimethyl-8-(1-D-ribityl)lumazine	C04332                      
+dmpp_c	Dimethylallyl diphosphate	C00235
+dnad_c	Deamino-NAD+	C00857
+dpcoa_c	Dephospho-CoA	C00882
+dscl_c	dihydrosirohydrochlorin	C02463
+dtbt_c	Dethiobiotin	C01909
+dtdp_c	dTDP	C00363
+dtdp4d6dg_c	dTDP-4-dehydro-6-deoxy-D-glucose	C11907
+dtdp4d6dm_c	dTDP-4-dehydro-6-deoxy-L-mannose	C00688                      
+dtdpglu_c	dTDPglucose	C00842
+dtdprmn_c	dTDP-L-rhamnose	C03319
+dtmp_c	dTMP	C00364
+dttp_c	dTTP	C00459
+dudp_c	dUDP	C01346
+dump_c	dUMP	C00365
+duri_c	Deoxyuridine	C00526
+dutp_c	dUTP	C00460
+dxyl5p_c	1-deoxy-D-xylulose 5-phosphate	C11437
+e4p_c	D-Erythrose 4-phosphate	C00279
+egmeACP_c	Enoylglutaryl-[acyl-carrier protein] methyl ester	C20374
+eig3p_c	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate	C04666
+enter_c	Enterochelin	C05821
+epmeACP_c	Enoylpimeloyl-[acyl-carrier protein] methyl ester	C20378
+etha_c	Ethanolamine	C00189
+etoh_c	Ethanol	C00469
+f6p_c	D-Fructose 6-phosphate	C00085
+fad_c	Flavin adenine dinucleotide oxidized	C00016
+fadh2_c	Flavin adenine dinucleotide reduced	C01352
+fdp_c	D-Fructose 1,6-bisphosphate	C00354
+fe2_c	Fe2+	C14818
+fe3_c	Fe3+	C14819
+fe3hox_c	Fe(III)hydroxamate	C06227
+fe3hox-un_c	Fe(III)hydoxamate, unloaded	-
+fecrm_c	Ferrichrome	C06228                      
+fecrm-un_c	Ferrichrome minus Fe(III)	-
+feenter_c	Fe-enterobactin	C06230
+feoxam_c	ferroxamine	C07597                      
+feoxam-un_c	ferroxamine minus Fe(3)	-
+fgam_c	N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide	C04376
+flxr_c	Flavodoxin reduced	C02745
+flxso_c	flavodoxin semi oxidized	-
+fmn_c	FMN	C00061
+fmnh2_c	Reduced FMN	C01847
+for_c	Formate	C00058
+fpram_c	2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine	C04640                      
+fprica_c	5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide	C04734
+frdp_c	Farnesyl diphosphate	C00448
+fru_c	D-Fructose	C00095                      
+fum_c	Fumarate	C00122
+g1p_c	D-Glucose 1-phosphate	C00103
+g3p_c	Glyceraldehyde 3-phosphate	C00118
+g3pe_c	sn-Glycero-3-phosphoethanolamine	C01233
+g3pg_c	Glycerophosphoglycerol	C03274
+g6p_c	D-Glucose 6-phosphate	C00092
+gagicolipa_c	galactosyl-glucosyl-inner core oligosaccharide lipid A	-
+gam1p_c	D-Glucosamine 1-phosphate	C06156
+gam6p_c	D-Glucosamine 6-phosphate	C00352
+gar_c	N1-(5-Phospho-D-ribosyl)glycinamide	C03838
+gcald_c	Glycolaldehyde	C00266
+gdp_c	GDP	C00035
+gdpmann_c	GDP-D-mannose	C00096
+gdptp_c	Guanosine 3-diphosphate 5-triphosphate	C04494                      
+gg4abut_c	gamma-glutamyl-gamma aminobutyric acid	C15767
+ggagicolipa_c	glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A	-
+ggbutal_c	gamma-glutamyl-gamma-butyraldehyde	C15700
+gggagicolipa_c	glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A	-
+ggptrc_c	gamma-glutamyl-putrescine	C15699
+gicolipa_c	glucosyl-inner core oligosaccharide lipid A	-
+glc-D_c	D-Glucose	C00031
+glcn_c	D-Gluconate	C00257
+gln-L_c	L-Glutamine	C00064
+glu-D_c	D-Glutamate	C00217
+glu-L_c	L-Glutamate	C00025
+glu1sa_c	L-Glutamate 1-semialdehyde	C03741
+glu5p_c	L-Glutamate 5-phosphate	C03287
+glu5sa_c	L-Glutamate 5-semialdehyde	C01165
+glucys_c	gamma-L-Glutamyl-L-cysteine	C00669
+glutrna_c	L-Glutamyl-tRNA(Glu)	C02987                      
+glx_c	Glyoxylate	C00048
+gly_c	Glycine	C00037
+glyald_c	D-Glyceraldehyde	C00577
+glyc_c	Glycerol	C00116
+glyc-R_c	(R)-Glycerate	C00258
+glyc3p_c	Glycerol 3-phosphate	C03189
+glyclt_c	Glycolate	C00160
+glycogen_c	glycogen	C00182
+glycogenn1_c	glycogen(n-1)	-
+gmeACP_c	Glutaryl-[acyl-carrier protein] methyl ester	C20375
+gmhep17bp_c	D-Glycero-D-manno-heptose 1,7-bisphosphate	C11472                      
+gmhep1p_c	D-Glycero-D-manno-heptose 1-phosphate	C07838                      
+gmhep7p_c	D-Glycero-D-manno-heptose 7-phosphate	C19882
+gmp_c	GMP	C00144
+grdp_c	Geranyl diphosphate	C00341
+grxox_c	glutaredoxin (oxidized)	-
+grxrd_c	glutaredoxin (reduced)	-
+gsn_c	Guanosine	C00387
+gthox_c	Oxidized glutathione	C00127
+gthrd_c	Reduced glutathione	C00051
+gtp_c	GTP	C00044
+gtspmd_c	Glutathionylspermidine	C05730
+gua_c	Guanine	C00242
+h_c	H+	C00080
+h2mb4p_c	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate	-
+h2o_c	H2O	C00001
+h2o2_c	Hydrogen peroxide	C00027
+h2s_c	Hydrogen sulfide	C00087
+hco3_c	Bicarbonate	C00288
+hcys-L_c	L-Homocysteine	C00155
+hdca_c	Hexadecanoate (n-C16:0)	C00249
+hdcap_c	Hexadecanoyl-phosphate (n-C16:0)	-
+hdcea_c	Hexadecenoate (n-C16:1)	C08362
+hdceap_c	Hexadecanoyl-phosphate (n-C16:1)	-
+hdeACP_c	cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)	-
+hemeO_c	Heme O	C15672                      
+hexACP_c	Hexanoyl-ACP (n-C6:0ACP)	-
+hgmeACP_c	3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester	C20373
+hhlipa_c	heptosyl-heptosyl-kdo2-lipidA	-
+his-L_c	L-Histidine	C00135
+hisp_c	L-Histidinol phosphate	C01100
+histd_c	L-Histidinol	C00860
+hlipa_c	heptosyl-kdo2-lipidA	-
+hmbil_c	Hydroxymethylbilane	C01024
+hom-L_c	L-Homoserine	C00263
+hphhlipa_c	heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA	-
+hpmeACP_c	3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester	C20377
+hpyr_c	Hydroxypyruvate	C00168
+hx2coa_c	trans-Hex-2-enoyl-CoA	C05271
+hxa_c	Hexanoate (n-C6:0)	C01585                      
+hxan_c	Hypoxanthine	C00262
+hxcoa_c	Hexanoyl-CoA (n-C6:0CoA)	-
+iasp_c	Iminoaspartate	C05840
+ichor_c	Isochorismate	C00885
+icit_c	Isocitrate	C00311
+icolipa_c	inner core oligosaccharide lipid A (E coli)	-
+idon-L_c	L-Idonate	C00770
+idp_c	IDP	C00104
+ile-L_c	L-Isoleucine	C00407
+imacp_c	3-(Imidazol-4-yl)-2-oxopropyl phosphate	C01267
+imp_c	IMP	C00130
+indole_c	Indole	C00463
+ins_c	Inosine	C00294
+ipdp_c	Isopentenyl diphosphate	C00129
+iscs_c	IscS sulfur acceptor protein	-
+iscssh_c	IscS with bound sulfur	-
+iscu_c	IscU scaffold protein	-
+iscu-2fe2s_c	IscU with bound [2Fe-2S] cluster	-
+iscu-2fe2s2_c	IscU with two bound [2Fe-2S] clusters	-
+iscu-4fe4s_c	IscU with bound [4Fe-4S] cluster	-
+itp_c	ITP	C00081
+k_c	potassium	C00238                      
+kdo_c	3-Deoxy-D-manno-2-octulosonate	C01187
+kdo2lipid4_c	KDO(2)-lipid IV(A)	C06025
+kdo2lipid4L_c	KDO(2)-lipid IV(A) with laurate	-
+kdo2lipid4p_c	KDO(2)-lipid IV(A) with palmitoleoyl	-
+kdo8p_c	3-Deoxy-D-manno-octulosonate 8-phosphate	C04478
+kdolipid4_c	KDO-lipid IV(A)	C06024
+kphphhlipa_c	kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA	-
+lac-D_c	D-Lactate	C00256
+lac-L_c	L-Lactate	C00186
+lald-D_c	D-Lactaldehyde	C00937
+lald-L_c	L-Lactaldehyde	C00424
+lcts_c	Lactose	C01970
+leu-L_c	L-Leucine	C00123
+lgt-S_c	(R)-S-Lactoylglutathione	C03451
+lipa_c	KDO(2)-lipid (A)	-
+lipa_cold_c	cold adapted KDO(2)-lipid (A)	-
+lipidA_c	2,3,23-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4-bisphosphate	C04919                      
+lipidAds_c	Lipid A Disaccharide	C04932
+lipidX_c	2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate	C04824                      
+lipopb_c	lipoate (protein bound)	-
+lys-L_c	L-Lysine	C00047
+mal-L_c	L-Malate	C00149
+malACP_c	Malonyl-[acyl-carrier protein]	C01209
+malcoa_c	Malonyl-CoA	C00083
+malcoame_c	malonyl-CoA methyl ester	C19673                      
+malthp_c	Maltoheptaose	-
+malthx_c	Maltohexaose	C01936
+maltpt_c	Maltopentaose	-
+maltttr_c	Maltotetraose	C02052
+man_c	D-Mannose	C00159
+man1p_c	D-Mannose 1-phosphate	C00636                      
+man6p_c	D-Mannose 6-phosphate	C00275
+mdhdhf_c	(2R,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one	-
+melib_c	Melibiose	C05402
+meoh_c	Methanol	C00132
+met-L_c	L-Methionine	C00073
+methf_c	5,10-Methenyltetrahydrofolate	C00445
+metsox-R-L_c	L-methionine-R-sulfoxide	C15998
+metsox-S-L_c	L-Methionine Sulfoxide	C02989
+mg2_c	magnesium	C00305                      
+micit_c	methylisocitrate	C04593
+mlthf_c	5,10-Methylenetetrahydrofolate	C00143                      
+mmcoa-S_c	(S)-Methylmalonyl-CoA	C00683
+mn2_c	Mn2+	C00034
+moadamp_c	MoaD Protein with bound AMP	-
+moadcoo_c	MoaD Protein with carboxylate	-
+moadcosh_c	MoaD Protein with thiocarboxylate	-
+mobd_c	Molybdate	C06232
+moco_c	molybdenum cofactor	C18237
+mococdp_c	molybdopterin cytosine dinucleotide	C21485
+mocogdp_c	molybdopterin guanine dinucleotide	C19928
+mpt_c	molybdopterin	C05924
+mptamp_c	adenylated molybdopterin	C19848
+mql8_c	Menaquinol 8	C05819
+mqn8_c	Menaquinone 8	C05377
+msa_c	Malonate semialdehyde	C00222
+mthgxl_c	Methylglyoxal	C00546
+mththf_c	(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran	C21382
+myrsACP_c	Myristoyl-ACP (n-C14:0ACP)	-
+n2o_c	Nitrous oxide	C00887
+na1_c	Sodium	C01330                      
+nac_c	Nicotinate	C00253
+nad_c	Nicotinamide adenine dinucleotide	C00003
+nadh_c	Nicotinamide adenine dinucleotide - reduced	C00004                      
+nadp_c	Nicotinamide adenine dinucleotide phosphate	C00006
+nadph_c	Nicotinamide adenine dinucleotide phosphate - reduced	C00005                      
+ncam_c	Nicotinamide	C00153
+nh4_c	Ammonium	C01342
+ni2_c	nickel	C00291
+nicrnt_c	Nicotinate D-ribonucleotide	C01185
+nmn_c	NMN	C00455
+no_c	Nitric oxide	C00533
+o2_c	O2	C00007
+oaa_c	Oxaloacetate	C00036
+oc2coa_c	trans-Oct-2-enoyl-CoA	C05276
+ocACP_c	Octanoyl-ACP (n-C8:0ACP)	-
+occoa_c	Octanoyl-CoA (n-C8:0CoA)	C01944                      
+ocdca_c	octadecanoate (n-C18:0)	C01530                      
+ocdcaACP_c	Octadecanoyl-ACP (n-C18:0ACP)	-
+ocdcap_c	Octadecanoyl-phosphate (n-C18:0)	-
+ocdcea_c	octadecenoate (n-C18:1)	-
+ocdceap_c	Octadecanoyl-phosphate (n-C18:1)	-
+octa_c	octanoate (n-C8:0)	C06423
+octapb_c	octanoate (protein bound)	-
+octdp_c	all-trans-Octaprenyl diphosphate	C04146
+octeACP_c	cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)	-
+ogmeACP_c	3-Oxo-glutaryl-[acyl-carrier protein] methyl ester	-
+ohpb_c	2-Oxo-3-hydroxy-4-phosphobutanoate	C06054
+opmeACP_c	3-Oxo-pimeloyl-[acyl-carrier protein] methyl ester	-
+orn_c	Ornithine	C00077
+orot_c	Orotate	C00295
+orot5p_c	Orotidine 5-phosphate	C01103                      
+oxam_c	Oxamate	C01444
+oxur_c	Oxalureate	C00802
+pa120_c	1,2-didodecanoyl-sn-glycerol 3-phosphate	-
+pa140_c	1,2-ditetradecanoyl-sn-glycerol 3-phosphate	-
+pa141_c	1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate	-
+pa160_c	1,2-dihexadecanoyl-sn-glycerol 3-phosphate	-
+pa161_c	1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate	-
+pa180_c	1,2-dioctadecanoyl-sn-glycerol 3-phosphate	-
+pa181_c	1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate	-
+palmACP_c	Palmitoyl-ACP (n-C16:0ACP)	-
+pan4p_c	Pantetheine 4-phosphate	C01134                      
+pant-R_c	(R)-Pantoate	C00522                      
+pap_c	Adenosine 3,5-bisphosphate	C00054                      
+paps_c	3-Phosphoadenylyl sulfate	C00053                      
+pdx5p_c	Pyridoxine 5-phosphate	C00627
+pe120_c	phosphatidylethanolamine (didodecanoyl, n-C12:0)	-
+pe140_c	phosphatidylethanolamine (ditetradecanoyl, n-C14:0)	-
+pe141_c	phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1)	-
+pe160_c	phosphatidylethanolamine (dihexadecanoyl, n-C16:0)	-
+pe161_c	phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)	-
+pe181_c	phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)	-
+pep_c	Phosphoenolpyruvate	C00074
+pg120_c	Phosphatidylglycerol (didodecanoyl, n-C12:0)	-
+pg140_c	Phosphatidylglycerol (ditetradecanoyl, n-C14:0)	-
+pg141_c	Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1)	-
+pg160_c	Phosphatidylglycerol (dihexadecanoyl, n-C16:0)	-
+pg161_c	Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)	-
+pg180_c	Phosphatidylglycerol (dioctadecanoyl, n-C18:0)	-
+pg181_c	Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)	-
+pgp120_c	Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)	-
+pgp140_c	Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0)	-
+pgp141_c	Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1)	-
+pgp160_c	Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)	-
+pgp161_c	Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)	-
+pgp180_c	Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)	-
+pgp181_c	Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)	-
+phe-L_c	L-Phenylalanine	C00079
+pheme_c	Protoheme	C00032
+phhlipa_c	phospho-heptosyl-heptosyl-kdo2-lipidA	-
+phom_c	O-Phospho-L-homoserine	C01102
+phphhlipa_c	phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA	-
+phpyr_c	Phenylpyruvate	C00166
+phthr_c	O-Phospho-4-hydroxy-L-threonine	C06055
+pi_c	Phosphate	C00009                      
+pimACP_c	Pimeloyl-[acyl-carrier protein]	C19845                      
+pmeACP_c	Pimeloyl-[acyl-carrier protein] methyl ester	C19846
+pnto-R_c	(R)-Pantothenate	C00864
+poaac_c	Peroxyaminoacrylate	C20249
+ppa_c	Propionate (n-C3:0)	-
+ppap_c	Propanoyl phosphate	C02876
+ppbng_c	Porphobilinogen	C00931
+ppcoa_c	Propanoyl-CoA	C00100
+ppgpp_c	Guanosine 3,5-bis(diphosphate)	C01228
+pphn_c	Prephenate	C00254
+ppi_c	Diphosphate	C00013
+ppp9_c	Protoporphyrin	C02191
+pppg9_c	Protoporphyrinogen IX	C01079
+pppi_c	Inorganic triphosphate	C00404
+pram_c	5-Phospho-beta-D-ribosylamine	C03090
+pran_c	N-(5-Phospho-D-ribosyl)anthranilate	C04302
+prbamp_c	1-(5-Phosphoribosyl)-AMP	C02741
+prbatp_c	1-(5-Phosphoribosyl)-ATP	C02739
+prfp_c	1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide	-
+prlp_c	5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide	C04916                      
+pro-L_c	L-Proline	C00148
+prpp_c	5-Phospho-alpha-D-ribose 1-diphosphate	C00119
+ps120_c	phosphatidylserine (didodecanoyl, n-C12:0)	-
+ps140_c	phosphatidylserine (ditetradecanoyl, n-C14:0)	-
+ps141_c	phosphatidylserine (ditetradec-7-enoyl, n-C14:1)	-
+ps160_c	phosphatidylserine (dihexadecanoyl, n-C16:0)	-
+ps161_c	phosphatidylserine (dihexadec-9-enoyl, n-C16:1)	-
+ps181_c	phosphatidylserine (dioctadec-11-enoyl, n-C18:1)	-
+pser-L_c	O-Phospho-L-serine	C01005
+ptrc_c	Putrescine	C00134
+pyam5p_c	Pyridoxamine 5-phosphate	C00647
+pydam_c	Pyridoxamine	C00534
+pydx_c	Pyridoxal	C00250
+pydx5p_c	Pyridoxal 5-phosphate	C00018
+pydxn_c	Pyridoxine	C00314
+pyr_c	Pyruvate	C00022
+q8_c	Ubiquinone-8	C17569
+q8h2_c	Ubiquinol-8	C00390                      
+quin_c	Quinate	C00296                      
+quln_c	Quinolinate	C03722
+r15bp_c	D-Ribose 1,5-bisphosphate	C01151                      
+r1p_c	alpha-D-Ribose 1-phosphate	C00620
+r5p_c	alpha-D-Ribose 5-phosphate	C03736
+rbflvrd_c	Reduced riboflavin	C01007
+rhcys_c	S-Ribosyl-L-homocysteine	C03539
+rib-D_c	D-Ribose	C00121
+ribflv_c	Riboflavin	C00255
+ru5p-D_c	D-Ribulose 5-phosphate	C00199
+s17bp_c	Sedoheptulose 1,7-bisphosphate	C00447
+s7p_c	Sedoheptulose 7-phosphate	C05382
+sbzcoa_c	O-Succinylbenzoyl-CoA	C03160
+scl_c	sirohydrochlorin	C05778
+ser-D_c	D-Serine	C00740
+ser-L_c	L-Serine	C00065
+seramp_c	L-seryl-AMP	-
+sheme_c	Siroheme	C00748
+skm_c	Shikimate	C00493
+skm5p_c	Shikimate 5-phosphate	C03175
+sl26da_c	N-Succinyl-LL-2,6-diaminoheptanedioate	C04421                      
+sl2a6o_c	N-Succinyl-2-L-amino-6-oxoheptanedioate	C04462
+so3_c	Sulfite	C00094
+so4_c	Sulfate	C00059
+spmd_c	Spermidine	C00315
+sucarg_c	N2-Succinyl-L-arginine	C03296
+sucbz_c	o-Succinylbenzoate	C02730
+succ_c	Succinate	C00042
+succoa_c	Succinyl-CoA	C00091
+sucglu_c	N2-Succinyl-L-glutamate	C05931
+sucgsa_c	N2-Succinyl-L-glutamate 5-semialdehyde	C05932                      
+suchms_c	O-Succinyl-L-homoserine	C01118
+sucorn_c	N2-Succinyl-L-ornithine	C03415
+sucsal_c	Succinic semialdehyde	C00232
+sufbcd_c	SufBCD scaffold complex	-
+sufbcd-2fe2s_c	SufBCD with bound [2Fe-2S] cluster	-
+sufbcd-2fe2s2_c	SufBCD with two bound [2Fe-2S] clusters	-
+sufbcd-4fe4s_c	SufBCD with bound [4Fe-4S] cluster	-
+sufse_c	SufSE sulfur acceptor complex	-
+sufsesh_c	SufSE with bound sulfur	-
+t3c11vaceACP_c	trans-3-cis-11-vacceoyl-[acyl-carrier protein]	-
+t3c5ddeceACP_c	trans-3-cis-5-dodecenoyl-[acyl-carrier protein]	-
+t3c7mrseACP_c	trans-3-cis-7-myristoleoyl-[acyl-carrier protein]	-
+t3c9palmeACP_c	trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]	-
+td2coa_c	trans-Tetradec-2-enoyl-CoA	C05273
+tdcoa_c	Tetradecanoyl-CoA (n-C14:0CoA)	C02593                      
+tddec2eACP_c	trans-Dodec-2-enoyl-[acyl-carrier protein]	C05758
+tdeACP_c	cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1)	-
+tdec2eACP_c	trans-Dec-2-enoyl-[acyl-carrier protein]	C05754
+tdecoa_c	Tetradecenoyl-CoA (n-C14:1CoA)	-
+thdp_c	2,3,4,5-Tetrahydrodipicolinate	C03972
+thex2eACP_c	trans-Hex-2-enoyl-[acyl-carrier protein]	C05748
+thf_c	5,6,7,8-Tetrahydrofolate	C00101
+thmmp_c	Thiamin monophosphate	C01081
+thmpp_c	Thiamine diphosphate	C00068
+thr-L_c	L-Threonine	C00188
+thym_c	Thymine	C00178
+thymd_c	Thymidine	C00214
+tmrs2eACP_c	trans-Tetradec-2-enoyl-[acyl-carrier protein]	C05760
+toct2eACP_c	trans-Oct-2-enoyl-[acyl-carrier protein]	C05751
+tpalm2eACP_c	trans-Hexadec-2-enoyl-[acyl-carrier protein]	C05763
+trdox_c	Oxidized thioredoxin	C00343
+trdrd_c	Reduced thioredoxin	C00342
+tre_c	Trehalose	C01083
+tre6p_c	alpha,alpha-Trehalose 6-phosphate	C00689                      
+trnaglu_c	tRNA (Glu)	C01641
+trp-L_c	L-Tryptophan	C00078
+ttdca_c	tetradecanoate (n-C14:0)	-
+ttdcap_c	Tetradecanoyl-phosphate (n-C14:0)	-
+ttdcea_c	tetradecenoate (n-C14:1)	-
+ttdceap_c	Tetradecanoyl-phosphate (n-C14:1)	-
+tyr-L_c	L-Tyrosine	C00082
+u23ga_c	UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine	C04652                      
+u3aga_c	UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine	C04738
+u3hga_c	UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine	C06022
+uaagmda_c	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala	-
+uaccg_c	UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine	C04631
+uacgam_c	UDP-N-acetyl-D-glucosamine	C00043
+uagmda_c	Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine	C05897                      
+uama_c	UDP-N-acetylmuramoyl-L-alanine	C01212
+uamag_c	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate	C00692                      
+uamr_c	UDP-N-acetylmuramate	C01050
+udcpdp_c	Undecaprenyl diphosphate	C04574                      
+udcpp_c	Undecaprenyl phosphate	C00348                      
+udp_c	UDP	C00015
+udpg_c	UDPglucose	C00029
+ugmd_c	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate	C04877                      
+ugmda_c	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine	C04882                      
+um4p_c	UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine	-
+ump_c	UMP	C00105
+uppg3_c	Uroporphyrinogen III	C01051
+ura_c	Uracil	C00106
+uracp_c	Ureidoacrylate peracid	C20231
+urate_c	Urate	C00366
+urdglyc_c	(-)-Ureidoglycolate	C00603
+urea_c	Urea	C00086
+uri_c	Uridine	C00299
+utp_c	UTP	C00075
+val-L_c	L-Valine	C00183
+xan_c	Xanthine	C00385
+xmp_c	Xanthosine 5-phosphate	C00655
+xtp_c	XTP	C00700
+xtsn_c	Xanthosine	C01762
+xu5p-D_c	D-Xylulose 5-phosphate	C00231
+zn2_c	Zinc	C00038                      
+12ppd-R_e	(R)-Propane-1,2-diol	C02912                      
+12ppd-S_e	(S)-Propane-1,2-diol	C02917                      
+15dap_e	1,5-Diaminopentane	C01672
+3hpp_e	3-Hydroxypropanoate	C01013                      
+4abut_e	4-Aminobutanoate	C00334
+5dglcn_e	5-Dehydro-D-gluconate	C01062
+5mtr_e	5-Methylthio-D-ribose	C03089
+LalaDgluMdap_e	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate	-
+LalaDgluMdapDala_e	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine	-
+ac_e	Acetate	C00033                      
+acald_e	Acetaldehyde	C00084
+acser_e	O-Acetyl-L-serine	C00979
+ade_e	Adenine	C00147
+adn_e	Adenosine	C00212
+agm_e	Agmatine	C00179
+akg_e	2-Oxoglutarate	C00026
+ala-D_e	D-Alanine	C00133
+ala-L_e	L-Alanine	C00041
+alaala_e	D-Alanyl-D-alanine	C00993                      
+alltn_e	Allantoin	C01551
+anhgm_e	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid	-
+arbtn_e	aerobactin minus Fe3	-
+arbtn-fe3_e	Aerobactin	C05554
+arg-L_e	L-Arginine	C00062
+asn-L_e	L-Asparagine	C00152
+asp-L_e	L-Aspartate	C00049
+ca2_e	Calcium	C00076
+cbl1_e	Cob(I)alamin	C00853
+cgly_e	Cys-Gly	C01419
+cit_e	Citrate	C00158
+cl_e	Chloride	C00698
+cm_e	Chloramphenicol	C00918
+co2_e	CO2	C00011
+cobalt2_e	Co2+	C00011
+colipa_e	core oligosaccharide lipid A	C00338                      
+cpgn_e	coprogen	-
+cpgn-un_e	coprogen unloaded (no Fe(III))	-
+cu2_e	Cu2+	C00070
+cys-L_e	L-Cysteine	C00097
+cytd_e	Cytidine	C00475
+dha_e	Dihydroxyacetone	C00184
+doxrbcn_e	doxorubicin	C01661
+enlipa_e	phosphoethanolamine KDO(2)-lipid (A)	-
+enter_e	Enterochelin	C05821
+etha_e	Ethanolamine	C00189
+etoh_e	Ethanol	C00469
+fe2_e	Fe2+	C14818
+fe3_e	Fe3+	C14819
+fe3hox_e	Fe(III)hydroxamate	C06227
+fe3hox-un_e	Fe(III)hydoxamate, unloaded	-
+fecrm_e	Ferrichrome	C06228
+fecrm-un_e	Ferrichrome minus Fe(III)	-
+feenter_e	Fe-enterobactin	C06230
+feoxam_e	ferroxamine	C07597
+feoxam-un_e	ferroxamine minus Fe(3)	-
+for_e	Formate	C00058
+fusa_e	fusidic acid	C06694
+g3pe_e	sn-Glycero-3-phosphoethanolamine	C01233
+g3pg_e	Glycerophosphoglycerol	C03274
+glc-D_e	D-Glucose	C00031
+glcn_e	D-Gluconate	C00257
+glu-L_e	L-Glutamate	C00025
+gly_e	Glycine	C00037
+glyald_e	D-Glyceraldehyde	C00577
+glyc_e	Glycerol	C00116
+glyc-R_e	(R)-Glycerate	C00258
+glyc3p_e	Glycerol 3-phosphate	C03189
+glyclt_e	Glycolate	C00160
+gthrd_e	Reduced glutathione	C00051
+gua_e	Guanine	C00242
+h_e	H+	C00080
+h2o_e	H2O	C00001
+h2s_e	Hydrogen sulfide	C00087
+his-L_e	L-Histidine	C00135
+hom-L_e	L-Homoserine	C00263
+hxa_e	Hexanoate (n-C6:0)	C01585                      
+hxan_e	Hypoxanthine	C00262
+idon-L_e	L-Idonate	C00770
+ile-L_e	L-Isoleucine	C00407
+indole_e	Indole	C00463
+ins_e	Inosine	C00294
+k_e	potassium	C00238
+kdo2lipid4_e	KDO(2)-lipid IV(A)	C06025
+lac-D_e	D-Lactate	C00256
+lac-L_e	L-Lactate	C00186
+leu-L_e	L-Leucine	C00123
+lipa_e	KDO(2)-lipid (A)	-
+lipa_cold_e	cold adapted KDO(2)-lipid (A)	-
+lys-L_e	L-Lysine	C00047
+mal-L_e	L-Malate	C00149
+meoh_e	Methanol	C00132
+mg2_e	magnesium	C00305
+mincyc_e	minocycline	C07225
+mn2_e	Mn2+	C00034
+mobd_e	Molybdate	C06232
+nh4_e	Ammonium	C01342
+ni2_e	nickel	C00291
+novbcn_e	novobiocin	C05080
+o2_e	O2	C00007
+orn_e	Ornithine	C00077
+phe-L_e	L-Phenylalanine	C00079
+pheme_e	Protoheme	C00032
+pi_e	Phosphate	C00009                      
+pro-L_e	L-Proline	C00148
+ptrc_e	Putrescine	C00134
+pyr_e	Pyruvate	C00022
+quin_e	Quinate	C00296
+rfamp_e	rifampin	C06688
+ser-L_e	L-Serine	C00065
+so4_e	Sulfate	C00059
+spmd_e	Spermidine	C00315
+succ_e	Succinate	C00042
+thr-L_e	L-Threonine	C00188
+thym_e	Thymine	C00178
+thymd_e	Thymidine	C00214
+trp-L_e	L-Tryptophan	C00078
+ttrcyc_e	tetracycline	C06570
+tyr-L_e	L-Tyrosine	C00082
+ura_e	Uracil	C00106
+urea_e	Urea	C00086
+uri_e	Uridine	C00299
+val-L_e	L-Valine	C00183
+xan_e	Xanthine	C00385
+xtsn_e	Xanthosine	C01762
+zn2_e	Zinc	C00038
+12dgr120_p	1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)	-
+12dgr140_p	1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)	C16667                      
+12dgr141_p	1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1)	-
+12dgr160_p	1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)	C00165                      
+12dgr161_p	1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)	-
+12dgr180_p	1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)	-
+12dgr181_p	1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)	-
+12ppd-R_p	(R)-Propane-1,2-diol	C02912
+12ppd-S_p	(S)-Propane-1,2-diol	C02917
+15dap_p	1,5-Diaminopentane	C01672
+1agpe120_p	1-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)	-
+1agpe140_p	1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)	-
+1agpe141_p	1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)	-
+1agpg120_p	1-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)	-
+1agpg140_p	1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)	-
+1agpg141_p	1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)	-
+1ddecg3p_p	1-dodecanoyl-sn-glycerol 3-phosphate	-
+1tdec7eg3p_p	1-tetradec-7-enoyl-sn-glycerol 3-phosphate	-
+1tdecg3p_p	1-tetradecanoyl-sn-glycerol 3-phosphate	-
+2agpe120_p	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)	-
+2agpe140_p	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)	-
+2agpe141_p	2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)	-
+2agpg120_p	2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0)	-
+2agpg140_p	2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)	-
+2agpg141_p	2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)	-
+2ddecg3p_p	2-dodecanoyl-sn-glycerol 3-phosphate	-
+2tdecg3p_p	2-tetradecanoyl-sn-glycerol 3-phosphate	-
+3hpp_p	3-Hydroxypropanoate	C01013                      
+4abut_p	4-Aminobutanoate	C00334
+5dglcn_p	5-Dehydro-D-gluconate	C01062
+5mtr_p	5-Methylthio-D-ribose	C03089
+LalaDgluMdap_p	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate	-
+LalaDgluMdapDala_p	L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine	-
+ac_p	Acetate	C00033                      
+acald_p	Acetaldehyde	C00084
+acser_p	O-Acetyl-L-serine	C00979
+ade_p	Adenine	C00147
+adn_p	Adenosine	C00212
+agm_p	Agmatine	C00179
+akg_p	2-Oxoglutarate	C00026
+ala-D_p	D-Alanine	C00133
+ala-L_p	L-Alanine	C00041
+alaala_p	D-Alanyl-D-alanine	C00993                      
+alltn_p	Allantoin	C01551
+anhgm_p	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid	-
+anhgm3p_p	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide	-
+anhgm4p_p	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide	-
+arab-L_p	L-Arabinose	C00259
+arbtn_p	aerobactin minus Fe3	-
+arbtn-fe3_p	Aerobactin	C05554
+arg-L_p	L-Arginine	C00062
+asn-L_p	L-Asparagine	C00152
+asp-L_p	L-Aspartate	C00049
+ca2_p	Calcium	C00076
+cbl1_p	Cob(I)alamin	C00853
+cd2_p	Cadmium	C01413
+cgly_p	Cys-Gly	C01419
+cit_p	Citrate	C00158
+cl_p	Chloride	C00698
+clpn120_p	cardiolipin (tetradodecanoyl, n-C12:0)	-
+clpn140_p	cardiolipin (tetratetradecanoyl, n-C14:0)	-
+clpn141_p	cardiolipin (tetratetradec-7-enoyl, n-C14:1)	-
+clpn160_p	cardiolipin (tetrahexadecanoyl, n-C16:0)	-
+clpn161_p	cardiolipin (tetrahexadec-9-enoyl, n-C16:1)	-
+clpn180_p	cardiolipin (tetraoctadecanoyl, n-C18:0)	-
+clpn181_p	cardiolipin (tetraoctadec-11-enoyl, n-C18:1)	-
+cm_p	Chloramphenicol	C00918
+co2_p	CO2	C00011
+cobalt2_p	Co2+	C00011
+colipa_p	core oligosaccharide lipid A	C00338                      
+cpgn_p	coprogen	-
+cpgn-un_p	coprogen unloaded (no Fe(III))	-
+crn_p	L-Carnitine	C00318
+crn-D_p	D-Carnitine	C15025
+ctbt_p	crotonobetaine	C04114
+cu2_p	Cu2+	C00070
+cys-L_p	L-Cysteine	C00097
+cytd_p	Cytidine	C00475
+ddca_p	Dodecanoate (n-C12:0)	C02679                      
+dha_p	Dihydroxyacetone	C00184
+doxrbcn_p	doxorubicin	C01661
+enlipa_p	phosphoethanolamine KDO(2)-lipid (A)	-
+enter_p	Enterochelin	C05821
+etha_p	Ethanolamine	C00189
+etoh_p	Ethanol	C00469
+fe2_p	Fe2+	C14818
+fe3_p	Fe3+	C14819
+fe3hox_p	Fe(III)hydroxamate	C06227
+fe3hox-un_p	Fe(III)hydoxamate, unloaded	-
+fecrm_p	Ferrichrome	C06228
+fecrm-un_p	Ferrichrome minus Fe(III)	-
+feenter_p	Fe-enterobactin	C06230
+feoxam_p	ferroxamine	C07597
+feoxam-un_p	ferroxamine minus Fe(3)	-
+for_p	Formate	C00058
+fusa_p	fusidic acid	C06694
+g3pe_p	sn-Glycero-3-phosphoethanolamine	C01233
+g3pg_p	Glycerophosphoglycerol	C03274
+glc-D_p	D-Glucose	C00031
+glcn_p	D-Gluconate	C00257
+glu-L_p	L-Glutamate	C00025
+gly_p	Glycine	C00037
+glyald_p	D-Glyceraldehyde	C00577
+glyc_p	Glycerol	C00116
+glyc-R_p	(R)-Glycerate	C00258
+glyc3p_p	Glycerol 3-phosphate	C03189
+glyclt_p	Glycolate	C00160
+gthrd_p	Reduced glutathione	C00051
+gua_p	Guanine	C00242
+h_p	H+	C00080
+h2o_p	H2O	C00001
+h2s_p	Hydrogen sulfide	C00087
+his-L_p	L-Histidine	C00135
+hom-L_p	L-Homoserine	C00263
+hxa_p	Hexanoate (n-C6:0)	C01585                      
+hxan_p	Hypoxanthine	C00262
+idon-L_p	L-Idonate	C00770
+ile-L_p	L-Isoleucine	C00407
+indole_p	Indole	C00463
+ins_p	Inosine	C00294
+k_p	potassium	C00238
+kdo2lipid4_p	KDO(2)-lipid IV(A)	C06025
+lac-D_p	D-Lactate	C00256
+lac-L_p	L-Lactate	C00186
+lcts_p	Lactose	C01970
+leu-L_p	L-Leucine	C00123
+lipa_p	KDO(2)-lipid (A)	-
+lipa_cold_p	cold adapted KDO(2)-lipid (A)	-
+lys-L_p	L-Lysine	C00047
+mal-L_p	L-Malate	C00149
+melib_p	Melibiose	C05402
+meoh_p	Methanol	C00132
+mg2_p	magnesium	C00305
+mincyc_p	minocycline	C07225
+mn2_p	Mn2+	C00034
+mobd_p	Molybdate	C06232
+murein3p3p_p	two linked disacharide tripeptide murein units (uncrosslinked, middle of chain)	-
+murein3px3p_p	two disacharide linked murein units, tripeptide crosslinked tripeptide (A2pm->A2pm) (middle of chain)	-
+murein3px4p_p	two disacharide linked murein units, tripeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)	-
+murein4p3p_p	two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain)	-
+murein4p4p_p	two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain)	-
+murein4px4p_p	two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain)	-
+murein4px4p4p_p	three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain)	-
+murein4px4px4p_p	three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala) & tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain)	-
+murein5p3p_p	two linked disacharide pentapeptide and tripeptide murein units (uncrosslinked, middle of chain)	-
+murein5p4p_p	two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain)	-
+murein5p5p_p	two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)	-
+murein5p5p5p_p	three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)	-
+murein5px3p_p	two disacharide linked murein units, pentapeptide corsslinked tripeptide (A2pm->A2pm) (middle of chain)	-
+murein5px4p_p	two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)	-
+murein5px4px4p_p	three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain)	-
+na1_p	Sodium	C01330
+nh4_p	Ammonium	C01342
+ni2_p	nickel	C00291
+novbcn_p	novobiocin	C05080
+o2_p	O2	C00007
+orn_p	Ornithine	C00077
+pa120_p	1,2-didodecanoyl-sn-glycerol 3-phosphate	-
+pa140_p	1,2-ditetradecanoyl-sn-glycerol 3-phosphate	-
+pa141_p	1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate	-
+pa160_p	1,2-dihexadecanoyl-sn-glycerol 3-phosphate	-
+pa161_p	1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate	-
+pa180_p	1,2-dioctadecanoyl-sn-glycerol 3-phosphate	-
+pa181_p	1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate	-
+pe120_p	phosphatidylethanolamine (didodecanoyl, n-C12:0)	-
+pe140_p	phosphatidylethanolamine (ditetradecanoyl, n-C14:0)	-
+pe141_p	phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1)	-
+pe160_p	phosphatidylethanolamine (dihexadecanoyl, n-C16:0)	-
+pe161_p	phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)	-
+pe181_p	phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)	-
+pg120_p	Phosphatidylglycerol (didodecanoyl, n-C12:0)	-
+pg140_p	Phosphatidylglycerol (ditetradecanoyl, n-C14:0)	-
+pg141_p	Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1)	-
+pg160_p	Phosphatidylglycerol (dihexadecanoyl, n-C16:0)	C00344                      
+pg161_p	Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)	-
+pg180_p	Phosphatidylglycerol (dioctadecanoyl, n-C18:0)	-
+pg181_p	Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)	-
+pgp120_p	Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)	-
+pgp140_p	Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0)	-
+pgp141_p	Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1)	-
+pgp160_p	Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)	-
+pgp161_p	Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)	-
+pgp180_p	Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)	-
+pgp181_p	Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)	-
+phe-L_p	L-Phenylalanine	C00079
+pheme_p	Protoheme	C00032
+pi_p	Phosphate	C00009
+pro-L_p	L-Proline	C00148
+ptrc_p	Putrescine	C00134
+pyr_p	Pyruvate	C00022
+quin_p	Quinate	C00296
+rfamp_p	rifampin	C06688
+ser-L_p	L-Serine	C00065
+so4_p	Sulfate	C00059
+spmd_p	Spermidine	C00315
+succ_p	Succinate	C00042
+thr-L_p	L-Threonine	C00188
+thym_p	Thymine	C00178
+thymd_p	Thymidine	C00214
+trp-L_p	L-Tryptophan	C00078
+ttdca_p	tetradecanoate (n-C14:0)	-
+ttdcea_p	tetradecenoate (n-C14:1)	-
+ttrcyc_p	tetracycline	C06570
+tyr-L_p	L-Tyrosine	C00082
+ura_p	Uracil	C00106
+urea_p	Urea	C00086
+uri_p	Uridine	C00299
+val-L_p	L-Valine	C00183
+xan_p	Xanthine	C00385
+xtsn_p	Xanthosine	C01762
+zn2_p	Zinc	C00038                      
